@@ -1,1 +1,1 @@
-print ("Hello, Darink")
+print ("Hello, Darinka")
