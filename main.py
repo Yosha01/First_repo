@@ -21,11 +21,13 @@
 # print (prosto)
 # # Apple
 
-prosto= {"name":1, "age": 2}
-if prosto ["age"] >=1:
-     print ("Apple")
+# prosto= {"name":1, "age": 2}
+# if prosto ["age"] >=1:
+#      print ("Apple")
 
 
-my_dict = {"name": "Олексій", "age": 31}
+my_dict = {"name": "Олексій", "age": 16}
 if my_dict["age"] >= 18:
     print("Ви повнолітній")
+else:
+    print("No")    
