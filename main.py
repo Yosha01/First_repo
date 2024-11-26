@@ -26,8 +26,16 @@
 #      print ("Apple")
 
 
-my_dict = {"name": "Олексій", "age": 16}
-if my_dict["age"] >= 18:
-    print("Ви повнолітній")
-else:
-    print("No")    
+# my_dict = {"name": "Олексій", "age": 16}
+# if my_dict["age"] >= 18:
+#     print("Ви повнолітній")
+# else:
+#     print("No")    
+
+# fruits = ["яблуко", "банан", "вишня"]
+# for fruit in fruits:
+#     print(fruit)
+
+
+# for letter in "Python":
+#     print(letter)
