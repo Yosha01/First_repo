@@ -51,16 +51,22 @@
 
 
 
-N = 10 # Задаємо N  Start!!!
+# N = 10 # Задаємо N  Start!!!
 
-# Ініціалізуємо змінні
-sum_squares = 0  # Сума квадратів
-i = 1            # Поточне число
+# # Ініціалізуємо змінні
+# sum_squares = 0  # Сума квадратів
+# i = 1            # Поточне число
 
-# Цикл while
-while i <= N:  # Умова для ітерацій від 1 до N
-    sum_squares += i * i  # Додаємо квадрат поточного числа до суми
-    i += 1                # Збільшуємо лічильник на 1
+# # Цикл while
+# while i <= N:  # Умова для ітерацій від 1 до N
+#     sum_squares += i * i  # Додаємо квадрат поточного числа до суми
+#     i += 1                # Збільшуємо лічильник на 1
 
-# Виведення результату
-print(f"The sum of the squares of numbers from 1 to {N} is {sum_squares}.")
+# # Виведення результату
+# print(f"The sum of the squares of numbers from 1 to {N} is {sum_squares}.")
+
+
+first_name = "Олексій"
+last_name = "Гупало"
+full_name = first_name + " " + last_name
+print(len(full_name))
