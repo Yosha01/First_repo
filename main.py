@@ -66,7 +66,18 @@
 # print(f"The sum of the squares of numbers from 1 to {N} is {sum_squares}.")
 
 
-first_name = "Олексій"
-last_name = "Гупало"
-full_name = first_name + " " + last_name
-print(len(full_name))
+# first_name = "Олексій"
+# last_name = "Гупало"
+# full_name = first_name + " " + last_name
+# print(len(full_name))
+
+
+# first_name = "John"
+# last_name = "Doe"
+
+
+# def get_initials(first_name, last_name):
+#     return f"{last_name} {first_name[0]}."
+    
+# formatted_name  = get_initials(first_name, last_name)
+# print(formatted_name)
