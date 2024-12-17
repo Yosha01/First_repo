@@ -204,6 +204,6 @@
 # print(result)  # Виведе: 15
 
 
-def my_function() -> ReturnType:
-    # виконати дії
-    return result
+# def my_function() -> ReturnType:
+#     # виконати дії
+#     return result
